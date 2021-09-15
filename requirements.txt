@@ -1,5 +1,5 @@
 # Editable install with no version control (alphapose==0.3.0+cbc364f)
--e /home/shivam/Desktop/TDB/pose detection/AlphaPose
+# -e /home/shivam/Desktop/TDB/pose detection/AlphaPose
 asgiref==3.4.1
 certifi==2021.5.30
 charset-normalizer==2.0.4
